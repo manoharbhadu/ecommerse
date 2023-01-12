@@ -1,0 +1,148 @@
+@media only screen and (min-width: 200px) and (max-width: 776px){
+
+
+
+	.boderimg img {
+		position: absolute;
+		top: 0px;
+		right: 0px;
+		display: none;
+	}
+
+
+	.searchbarheading{
+		position: inherit!important;
+		margin-top: 20px;
+
+	}
+	.box{
+		margin: 5px;
+		padding: 5px;
+	}
+
+
+
+	.headingaction {
+		font-size: 22px;
+
+	}
+
+	.headingfeature {
+		font-family: 'Readex Pro';
+		font-style: normal;
+		font-weight: 700;
+		font-size: 32px;
+		line-height: 17px;
+		padding-bottom: 30px;
+	}
+
+
+
+	.lampcontant h4 {
+		font-size: 17px;
+	}
+
+	.owl-carousel .owl-nav button.owl-prev {
+
+		position: absolute;
+		left: 0px;
+
+	}
+	.owl-carousel .owl-nav button.owl-next {
+		position: absolute;
+		right: 0px;
+	}
+
+
+
+
+
+/*second page in html*/
+
+
+.menuprice{
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+
+.price {
+
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+
+}
+.chairbar h4 {
+	margin-top: 12px;
+	font-size: 19px;
+}
+
+.category {
+	font-size: 12px;
+}
+
+.chairbar  p{
+	font-size: 12px;
+}
+
+.notified button {
+	font-size: 12px;
+	padding-top: 10px;
+	line-height: 7px;
+	margin-top: 10px;
+	
+}
+
+.vaector img{
+	width: 100%;
+}
+
+.justin {
+	font-size: 14px;
+	text-align: end;
+}
+
+.justin p {
+	text-align: end;
+	font-size: 14px;
+}
+
+@media (max-width:1000px) {
+    .banner_content{
+        padding-top: 30px;
+        justify-content: space-between;
+    }
+    .vector_start{
+        order: 1;
+        margin: 0px;
+    }
+    .vector_end{
+        order: 2;
+        margin: 0px;
+    }
+    .banner_heading{
+        order: 3;
+        padding: 0px;
+    }
+    .row_2{
+        justify-content: center;
+        padding: 20px;
+    }
+    .second-img{
+    position: unset;
+    padding: 20px 0px;
+    margin: 20px 0px;
+    }
+    .location{
+        position: unset;
+        background: #F5EFEB;
+    }
+    .location-div{
+       padding-top: 10px;
+    }
+    .Searchbtn button{
+        margin-top: 20px;
+    }
+
+}

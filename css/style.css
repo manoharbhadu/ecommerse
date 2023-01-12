@@ -1,0 +1,1279 @@
+body{
+	font-family: 'Readex Pro';
+}
+.headertop{
+	padding: 14px;
+	background: #9C623E;
+}
+.headernav{
+	background: #F5EFEB;
+
+}
+.loginbtn{
+	background:#9C623E ;
+	color: #FFFF;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+	padding-right: 1rem;
+	padding-left: 1rem;
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 17px;
+}
+.navbar-nav .nav-link {
+	font-family: 'Readex Pro';
+	color: #212121;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 17px;
+}
+
+.headingaction{
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 30px;
+	line-height: 38px;
+}
+
+.auction{
+	margin-top: 100px;
+	padding-bottom: 50px;
+}
+
+.viewbtn input{
+	background: none;
+	border: none;
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 31px;
+	color: #9C623E;
+
+}
+.box{
+	padding: 16px;
+	margin: 21px;
+	background: #DBDEE6;
+	border-radius: 16px;
+}
+.box:hover{
+	transform: scale(1.04,1.04);
+	transition: 1s;
+}
+
+.box p{
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 25px;
+}
+.decor{
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 20px;
+	color: #7A7A7A;
+}
+
+
+.feature{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.headingfeature{
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 30px;
+	line-height: 38px;
+	padding-bottom: 60px;
+	text-align: center;
+	color: linear-gradient(106.12deg, #683D22 23.27%, #42230F 87.09%);
+}
+
+.itamfirst{
+	padding: 10px;
+	margin: 10px;
+	background: #292D32;
+
+}
+.card img{
+	width: 101px;
+	margin-top: 10px;
+	height: 168px;
+}
+.item img{
+	width: 101px !important;
+	margin-top: 20px;
+	height: 168px;
+}
+
+.cards img{
+	width: 210px;
+	margin-top: 10px;
+	height: 210px;
+}
+
+.layout{
+	margin-top: 10px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+
+.card-title{
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 20px;
+	color: linear-gradient(106.12deg, #683D22 23.27%, #42230F 87.09%); 
+}
+
+.card-text{
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 22px;
+	line-height: 28px;
+	color: #031424;
+}
+
+.colorbar{
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 18px;
+	line-height: 22px;
+	color: #11862B;
+}
+
+.card-header{
+	border: none;
+	background: none;
+}
+
+.card{
+	border: none;
+}
+.card:hover{
+	transform: scale(1.02,1.02);
+	transition: 2s;
+	border: solid 2px #9C623E;
+	background: #ffffff;
+	box-shadow: 3px 4px 4px rgba(0, 0, 0, 0.12);
+	border-radius: 10px;
+
+}
+
+.cards:hover{
+	transform: scale(1.02,1.02);
+	transition: 2s;
+	border: solid 2px #9C623E;
+	background: #ffffff;
+	box-shadow: 3px 4px 4px rgba(0, 0, 0, 0.12);
+	border-radius: 10px;
+
+
+
+}
+
+.card-footer{
+	background: #9C623E;
+	box-shadow: 0px 4px 11px rgba(210, 116, 58, 0.44);
+	border-radius: 6px;
+	margin: 8px;
+}
+
+.card-footer a{
+	text-decoration: none;
+	color: #ffff;
+}
+
+.loadmorebtn button{
+	background: #9C623E ;
+	font-weight: 400;
+	font-size: 17px;
+	line-height: 21px;
+	color: #FFFFFF;
+}
+
+.work{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.workheading{
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 30px;
+	padding-bottom: 30px;
+	line-height: 38px;
+	text-align: center;
+	color: linear-gradient(106.12deg, #683D22 23.27%, #42230F 87.09%);
+}
+
+
+.work .card{
+	background: #F3E3D9;
+	box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.12);
+	border-radius: 15px;
+
+}
+
+.work .card-body h6{
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 25px;
+	color: #212121;
+
+}
+.work .card-body p{
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 14px;
+	line-height: 22px;
+	color: #212121;
+}
+
+.boxes{
+	width: 45px;
+	background: #FFFFFF;
+	box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.14);
+	border-radius: 8px;
+}
+
+.boxes img{
+	width: 24px;
+	height: 25px;
+	margin: 10px;
+}
+
+.numberimg img{
+	width: 63px;
+	height: 46px;
+	padding-bottom: 10px;
+}
+
+.boderimg{
+	position: relative;
+}
+.boderimg img{
+	position: absolute;
+	top: 148px;
+	right: -83px;
+}
+
+.productheading{
+	text-align: center;
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 30px;
+	line-height: 38px;
+	padding-bottom: 30px;
+	color: linear-gradient(106.12deg, #683D22 23.27%, #42230F 87.09%);
+}
+
+.special{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.dealheading{
+	text-align: center;
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 30px;
+	padding-bottom: 30px;
+	line-height: 38px;
+	color: linear-gradient(106.12deg, #683D22 23.27%, #42230F 87.09%)
+}
+
+.upcom{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.upcomingheading{
+	text-align: center;
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 30px;
+	padding-bottom: 30px;
+	line-height: 38px;
+	color: linear-gradient(106.12deg, #683D22 23.27%, #42230F 87.09%);
+}
+
+.footer{
+	background: #FFF5EE;
+	padding-top: 30px;
+	padding-bottom:30px ;
+
+}
+
+.site p a {
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 25px;
+	text-transform: capitalize;
+	color: #000000;
+	text-decoration: none;
+	color: #000000;
+	list-style: none;
+}
+.site ul li {
+
+	list-style: none;
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 31px;
+	text-transform: capitalize;
+	color: rgba(45, 45, 45, 0.58);
+}
+.site ul li a{
+
+	text-decoration: none;
+	color: rgba(45, 45, 45, 0.58);
+}
+.footerend{
+	background: linear-gradient(106.12deg, #683D22 23.27%, #42230F 87.09%);
+	padding: 5px;
+}
+
+.contantspeal h5{
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 700;
+	margin-top: 20px;
+	font-size: 18px;
+	line-height: 22px;
+	color: #9C623E;
+
+}
+
+.contantspeal p{
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 15px;
+	color: #7A7A7A;
+}
+
+.doller{
+	font-family: 'Newsreader';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 22px;
+	line-height: 22px;
+	color: #031424;
+}
+
+.navbar-toggler-icon { 
+	width: 1em;
+	height: 1em;
+
+}
+
+.btn {
+	line-height: 1;
+}
+
+.card>.list-group {
+	margin: 10px;
+	text-align: center;
+	opacity: 0;
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 18px;
+}
+
+.card:hover .list-group{
+	opacity: 5;
+}
+.cards>.list-group {
+	margin: 10px;
+	text-align: center;
+	opacity: 0;
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 18px;
+}
+
+
+.cards:hover .list-group{
+	opacity: 5;
+}
+
+
+
+.owl-carousel .owl-nav button.owl-prev {
+
+	top: 160px;
+	width: 30px;
+	height: 53px;
+	border-radius: 62%;
+	font-size: 30px;
+	left: -30px;
+	border: none;
+	position: absolute;
+
+}
+.owl-carousel .owl-nav button.owl-next {
+	top: 160px;
+	width: 30px;
+	height: 53px;
+	border-radius: 62%;
+	font-size: 30px;
+	right: -30px;
+	border: none;
+	position: absolute;
+
+}
+
+.reserved{
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 25px;
+	color: #FFFFFF;
+
+}
+.searchbarhead{
+	position: relative;
+}
+.searchbarheading{
+	position: absolute;
+	bottom: -70px;
+}
+
+.searchbarheading{
+	padding: 20px;
+	text-align: center;
+	background: #FFFFFF;
+	box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.14);
+	border-radius: 13px;
+
+}
+
+.location{
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 25px;
+	color: #212121;
+	border-right: solid 1px #212121 ;
+}
+
+.location button{
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 400;
+
+	font-size: 18px;
+	line-height: 22px;
+	color: #212121;
+	opacity: 0.5;
+}
+
+.year{
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 25px;
+	color: #212121;
+	border-right: solid 1px #212121 ;
+}
+
+.year button{
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 400;
+
+	font-size: 18px;
+	line-height: 22px;
+	color: #212121;
+	opacity: 0.5;
+}
+
+.religion{
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 25px;
+	color: #212121;
+	border-right: solid 1px #212121 ;
+}
+
+.religion button{
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 400;
+
+	font-size: 18px;
+	line-height: 22px;
+	color: #212121;
+	opacity: 0.5;
+}
+
+.type{
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 25px;
+	color: #212121;
+	border-right: solid 1px #212121 ;
+}
+
+.type button{
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 22px;
+	color: #212121;
+	opacity: 0.5;
+}
+.searchbtn button{
+	margin: 20px;
+	background: #9C623E;
+	color: #ffff;
+
+}
+.searchbarheading a {
+	text-decoration: none;
+	color: #212121;
+}
+
+.auction a{
+	text-decoration: none;
+	color: #212121;
+	opacity: 0.5;
+}
+
+.textone{
+	background: linear-gradient(106.12deg, #683D22 23.27%, #42230F 87.09%);
+	padding: 3px 6px;
+	border-radius: 50%;
+	color: #ffff;
+} 
+
+.lamphead{
+	background: #FFF4EE;
+	mix-blend-mode: normal;
+	border-radius: 10px;
+
+}
+.lampcontant {
+	padding-left: 35px;
+}
+
+.lampcontant h4{
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 700;
+	padding-top: 39px;
+	font-size: 22.4482px;
+	line-height: 28px;
+	color: #031424;
+
+}
+
+.lampcontant p{
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 14px;
+	line-height: 18px;
+	color: #031424;
+}
+
+.lampcontant button{
+	background: #9C623E;
+	box-shadow: 0px 4px 11px rgba(210, 116, 58, 0.44);
+	border-radius: 6px;
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 10.7751px;
+	line-height: 13px;
+	color: #FFFFFF;
+}
+
+
+
+
+
+.tablehead{
+	background: #FFF4EE;
+	mix-blend-mode: normal;
+	border-radius: 10px;
+
+
+}
+
+.tablecontant{
+	padding-left: 35px;
+}
+
+.tablecontant h4{
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 700;
+	padding-top: 39px;
+	font-size: 22.4482px;
+	line-height: 28px;
+	color: #031424;
+
+}
+
+.tablecontant p{
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 14px;
+	line-height: 18px;
+	color: #031424;
+}
+
+.tablecontant button{
+	background: #9C623E;
+	box-shadow: 0px 4px 11px rgba(210, 116, 58, 0.44);
+	border-radius: 6px;
+	font-family: 'Readex Pro';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 10.7751px;
+	line-height: 13px;
+	color: #FFFFFF;
+}
+
+.site ul{
+	margin: 0px;
+	padding: 0px;
+}
+
+.phoneicons{
+	padding: 4px 6px;
+	margin: 2px;
+	color: #FFFFFF;
+
+	background: linear-gradient(106.12deg, #683D22 23.27%, #42230F 87.09%);
+	border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*second page in html*/
+
+.cardimges img {
+    width: 157px;
+    margin-top: 10px;
+    height: 157px;
+}
+
+.menuprice{
+	font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+padding-top: 50px;
+padding-bottom: 45px;
+line-height: 22px;
+}
+
+.menuprice a{
+   text-decoration: none;
+   color: #929292;
+
+}
+
+.price{
+font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+text-align: end;
+line-height: 31px;
+padding-top: 45px;
+padding-bottom: 45px;
+}
+
+.price a{
+	text-decoration: none;
+	color:#000000;
+}
+
+
+.wrapper {
+  margin: 0 auto;
+ 
+  text-align: center;
+}
+
+.image-gallery {
+  margin: 20px 20px;
+  display: table;
+}
+
+.primary,
+.thumbnails {
+  display: table-cell;
+}
+
+.thumbnails {
+  width: 200px;
+}
+
+.primary {
+  width: 450px;
+  height: 490px;
+      border-radius: 5px;
+  background-color: #cccccc;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.thumbnail:hover .thumbnail-image,
+.selected .thumbnail-image {
+  border: 4px solid #9C623E;
+
+}
+
+.thumbnail-image {
+  width: 110px;
+  height: 110px;
+  margin: 10px auto;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  border: 4px solid transparent;
+}
+
+.instant{
+	background: #9C623E;
+	margin-top:20px;
+	border-radius: 5px;
+
+
+}
+.instant button{	
+font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 30px;
+text-transform: uppercase;
+
+color: #FFFFFF
+}
+
+.chairbar h4{
+	font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 38px;
+text-transform: uppercase;
+background: linear-gradient(106.12deg, #683D22 23.27%, #42230F 87.09%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+}
+
+.chairbar p{
+	font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 24px;
+color: #454545;
+}
+
+.category{
+font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+color: #454545;
+}
+
+.notified button{
+	font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #ffff;
+background: linear-gradient(106.12deg, #683D22 23.27%, #42230F 87.09%);
+
+border-radius: 30px;
+
+
+}
+.btn:hover {
+    color: #ffff; 
+    border: none;
+}
+.highestheader{
+	font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+color: #000000 ;
+margin-top: 30px;
+margin-bottom: 20px;
+}
+
+
+.justin {
+	font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+color: #9C623E;
+}
+
+
+.justin  p {
+	font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #454545;
+}
+
+
+.card-body p{
+font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 24px;
+color: #000000;
+}
+
+.cardes {
+	border: solid  #9C623E 2px;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+.actionbackground{
+	background: #9C623E;
+padding: 20px;
+margin-top: 50px;
+}
+
+.actionbtninfo button{
+	color: #ffff;
+	padding: 6px;
+	font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+color: #FFFFFF;
+margin-bottom: 10px;
+	background: linear-gradient(106.12deg, #683D22 23.27%, #42230F 87.09%);
+
+}
+
+.boxbar {
+	    width: 45px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 18px rgb(0 0 0 / 14%);
+    border-radius: 8px;
+    margin: 10px;
+}
+
+.boxbar img{
+	    width: 24px;
+    height: 25px;
+    margin: 10px;
+}
+
+.actiontime h5{
+	font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+margin: 5px;
+color: #FFFFFF;
+}
+
+.actiontime p{
+	font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+padding: 6px;
+line-height: 18px;
+color: #FFFFFF
+
+}
+
+.linkbars a{
+	font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 18px;
+margin-top: 10px;
+margin-bottom: 10px;
+color: #FFD0AF;
+
+
+}
+
+.tabing {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.tablemenu{
+	margin-top: 60px;
+	padding: 10px;
+	border:solid 2px #9C623E;
+}
+
+.colorshead{
+	background: #9C623E;
+box-shadow: 0px 4px 11px rgba(210, 116, 58, 0.44);
+border-radius: 6px;
+font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+text-align: center;
+color: #FFFFFF;
+
+}
+
+
+
+.cardes .table>:not(caption)>*>* {
+    padding: 0.3rem 0.3rem;
+}
+.table>:not(caption)>*>* {
+    padding: 1rem 1rem;
+   font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 24px;
+    text-align: center;
+
+  }
+
+.nav-link .active{
+  font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 25px;
+text-transform: uppercase;
+color: #393939;
+}
+
+.nav-link{
+	font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 25px;
+text-transform: uppercase;
+color: #9D9D9D;
+}
+
+.description{
+	font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+padding-top: 30px;
+line-height: 28px;
+color: #000000;
+
+}
+.similarprodcut{
+	font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+padding: 20px;
+color: #393939;
+}
+
+.vaector img{
+width: 560px;
+}
+
+.fromlayout{
+	padding: 10px;
+	margin-top: 20px;
+	border-radius: 5px;
+	border:  solid 2px #9C623E;
+
+}
+
+.fromlayout label{
+font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+color: #3E3E3E;
+opacity: 0.5;
+}
+
+.review{
+	font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 700;
+margin-top: 50px;
+font-size: 18px;
+line-height: 25px;
+color: #393939;
+}
+
+.fromheading{
+	margin-top: 50px;
+	color:#E67136;
+
+
+}
+
+.reviewbtn button{
+	background: #9C623E;
+box-shadow: 0px 4px 11px rgba(210, 116, 58, 0.44);
+border-radius: 6px;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+padding: 10px;
+
+}
+
+.reviewmenu{
+  font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 19px;
+color: #000000;
+
+
+}
+
+.reviewmenu p {
+    font-family: 'Readex Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #E67136;
+
+}
+.reviewcomment{
+	font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+color: #727272;
+padding: 10px;
+
+}
+
+.loginfrom{
+	padding: 20px;
+	padding-top: 120px;
+}
+
+.forms{
+	background: #FFFFFF;
+box-shadow: 3px 4px 34px rgba(0, 0, 0, 0.12);
+border-radius: 10px;
+padding: 30px;
+}
+
+.forms input{
+		font-family: 'Readex Pro';
+font-style: normal;
+font-weight:500;
+	margin-top: 25px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+
+}
+
+.login button{
+		font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 500;
+	    padding: 11px;
+    font-size: 18px;
+    line-height: 20px;
+    margin-top: 20px;
+    background: #9C623E;
+    color: #fff;
+    border-radius: 30px;
+    font-weight: 700;
+}
+
+.forms h2 {
+		font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 400;
+    font-size: 2rem;
+    text-align: center;
+}
+
+
+.banner{
+	background: linear-gradient(106.12deg, #683D22 23.27%, #42230F 87.09%);
+	position: relative;
+}
+.banner_content{
+	text-align: center;
+	padding-top: 53px;
+}
+.vector_start{
+	width: 149px;
+	height: 149px;
+	margin-top:15px;
+	background: #F3E3D9;
+	box-shadow: 0px 4px 77px rgba(0, 0, 0, 0.25);
+	border-radius: 15px;
+}
+.img_start{
+	height: 60px;
+	width: 60px;
+	font-size:25px;
+	margin: 30px;
+	margin-bottom: 10px;
+	padding-top:15px;
+	background: #FFFFFF;
+	border-radius: 8px;
+}
+.vector_start div{
+	font-weight: 400;
+	font-size: 20px;
+}
+.vector_start span{
+	font-size: 25px;
+	font-weight: 600;
+}
+.vector_end{
+	width: 149px;
+	height: 149px;
+	margin-top:15px;
+	margin-right:100px;
+	padding: 0px;
+	background: #F3E3D9;
+	box-shadow: 0px 4px 77px rgba(0, 0, 0, 0.25);
+	border-radius: 15px;
+}
+.img_end{
+	height: 60px;
+	width: 60px;
+	font-size:25px;
+	margin: 30px;
+	margin: 30px 0px 10px 42px;
+	margin-bottom: 10px;
+	padding-top:15px;
+	background: #FFFFFF;
+	border-radius: 8px;
+}
+.vector_end div{
+	font-weight: 400;
+	font-size: 20px;
+}
+.vector_end span{
+	font-size: 25px;
+	font-weight: 600;
+}
+.banner_heading{
+	font-size: 45px;
+	font-weight: 600;
+	line-height: 56px;
+	text-align: center;
+	margin-top: 100px;
+	padding-left: 100px;
+}
+.line{
+	width: 80px;
+	height: 5px;
+	text-align: center;
+	margin: auto;
+	background: #9C623E;
+}
+.banner_heading h1 span {
+	color: #D49D7B;
+}
+
+.banner_heading p {
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 25px;
+}
+.banner_heading button{
+	font-size: 17px;
+	padding: 10px;
+	background: #FFFFFF;
+	color: #492712;
+}
+.second-img {
+	position: relative;
+	top: -60px;
+	left: 90px;
+}
